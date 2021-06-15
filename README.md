@@ -1,6 +1,6 @@
 About Mock Coverter
 ===================
-This is a free and open source software distributed in two languages, **pt_BR** and **en_US**. You can download its executable version (for win64 only) by clicking [here](https://mega.nz/file/hfQm0JoI#o2AI_roCN3PmnFzqu8wU-r0FQLiI7E6aje_PU7RjQXM), or you can follow the steps described in **Default Script Execution** session.
+This is a free and open source software distributed in two languages, **pt_BR** and **en_US**. You can download its executable version (for win64 only) by clicking [here](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), or you can follow the steps described in **Default Script Execution** session.
 
 It's intention is to convert **JSON datasets** into your desired **pattern** easily. You can, for example, use a dataset that contains JSON objects like this:
 
