@@ -1,6 +1,6 @@
 About Mock Coverter
 ===================
-This is a free and open source software distributed in two languages, **pt_BR** and **en_US**. You can download its executable version (for win64 only) by clicking [here](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), or you can follow the steps described in **Default Script Execution** session.
+This is a free and open source software distributed in two languages, **pt_BR** and **en_US**. You can download its executable version (for win64 only) by clicking [here](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), or you can follow the steps described in **Default Script Execution** section.
 
 It's intention is to convert **JSON datasets** into your desired **pattern** easily. You can, for example, use a dataset that contains JSON objects like this:
 
@@ -47,11 +47,11 @@ Follow this steps if you want to execute this software as a python script.
 ~~~
 pip3 install virtualenv
 ~~~
-2) Create a virtual environment inside this code repository directory:
+3) Create a virtual environment inside this code repository directory:
 ~~~
 python3 -m virtualenv .env
 ~~~
-3) Then enter your new environment:
+4) Then enter your new environment:
 ~~~
 windows powershell:
 > .env\Scripts\activate
@@ -59,11 +59,11 @@ windows powershell:
 linux terminal:
 $ source .env/bin/activate
 ~~~
-4) And download the required libs to execute Mock Converter:
+5) And download the required libs to execute Mock Converter:
 ~~~
 pip3 install -r requirements.txt
 ~~~
-5) Then you're ready to execute:
+6) Then you're ready to execute:
 ~~~
 python3 main.py
 ~~~
