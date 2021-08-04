@@ -1,4 +1,4 @@
-About Mock Coverter
+About Mock Converter
 ===================
 This is a free and open source software distributed in two languages, **pt_BR** and **en_US**. You can download its executable version (for win64 only) by clicking [here](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), or you can follow the steps described in **Default Script Execution** section.
 
