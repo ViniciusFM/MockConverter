@@ -1,7 +1,7 @@
 Sobre o Mock Coverter
 =====================
-Este é um software livre e open source distribuído em dois idiomas, **pt_BR**
-e **en_US**. Você pode baixar a sua versão executável (apenas para win64) ao clicar [aqui](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), ou você pode seguir os passos descritos na seção **Script de Execução Padrão**.
+Este é um software livre e open source distribuído em dois idiomas, [**pt_BR**](https://github.com/ViniciusFM/MockConverter/blob/master/README-pt_BR.md)
+e [**en_US**](https://github.com/ViniciusFM/MockConverter/blob/master/README.md). Você pode baixar a sua versão executável (apenas para win64) ao clicar [aqui](https://github.com/ViniciusFM/MockConverter/releases/tag/v2.0a), ou você pode seguir os passos descritos na seção **Script de Execução Padrão**.
 
 A intenção deste software é converter uma base de dados no **formato JSON** em um **padrão qualquer** desejado facilmente. Você pode, por exemplo, usar um dataset que contenha objetos JSON assim:
 
